@@ -18,7 +18,7 @@ Feel free to contact me at hrb56@cornell.edu if you would like to chat about dat
 
 ## About My Mentor
 
-Kyle Rector am an Assistant Professor of Computer Science and a member of the Public Digital Arts Cluster at the University of Iowa. She conducts research at the intersection of Human-Computer Interaction and Accessibility. She is especially interested in developing technologies that enhance quality of life for people who are blind or low vision in domains including exercise and art.
+Kyle Rector is an Assistant Professor of Computer Science and a member of the Public Digital Arts Cluster at the University of Iowa. She conducts research at the intersection of Human-Computer Interaction and Accessibility. She is especially interested in developing technologies that enhance quality of life for people who are blind or low vision in domains including exercise and art.
 
 She has broader interests in HCI. For instance, she has collaborated on other projects including email and attachment management in enterprise, an American Sign Language Dictionary, and inclusive play for neurodiverse children.
 
