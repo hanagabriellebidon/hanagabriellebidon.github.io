@@ -24,7 +24,7 @@ Feel free to check out her website: http://homepage.cs.uiowa.edu/~krector/resear
 
 ## About My Project
 
-Project description goes here.
+I will be developing a sensor mat system with the research team that detects whether people with visual impairments are in sync with an aerobics workout (e.g., step aerobics). If they are not in sync, we will deliver personalized verbal feedback.
 
 [My Final Report](files/finalreport.pdf)
 
