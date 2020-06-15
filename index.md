@@ -8,11 +8,19 @@ title: Summer 2020 DREU Project Site
 
 ## About Me
 
-My info goes here.
+Hello! I go by Hana Gabrielle, as this is my preferred first name.
+
+I am an incoming senior at Cornell University majoring in Information Science, Systems, and Technology with concentrations in Data Science and Behavioral Science and minoring in Science and Technology Studies and Science Communication and Public Engagement. At Cornell, I focused my academic coursework on data science, machine learning, and the social impact of technology on society. I am particularly interested in using data science for social good, especially in mental health. Upon graduating in May 2021, I see myself working in a think tank as a data scientist focused on mental health research.
+
+In my free time, I love advocating for mental health and disability rights. Cornell Minds Matter (CMM) is a mental health advocacy organization that I am devoted to at Cornell University. It is truly one of my favorite things about Cornell and has positively added to my college experience so far; being the neurodiversity chair for a growing organization that raises awareness about neurodiversity and empowers neurodiverse students has been a life-changing experience.
+
+Feel free to contact me at hrb56@cornell.edu if you would like to chat about data science, human computer interaction, accessibility, mental health, or anything else. 
 
 ## About My Mentor
 
-Mentor info goes here.
+Kyle Rector am an Assistant Professor of Computer Science and a member of the Public Digital Arts Cluster at the University of Iowa. She conducts research at the intersection of Human-Computer Interaction and Accessibility. She is especially interested in developing technologies that enhance quality of life for people who are blind or low vision in domains including exercise and art.
+
+She has broader interests in HCI. For instance, she has collaborated on other projects including email and attachment management in enterprise, an American Sign Language Dictionary, and inclusive play for neurodiverse children.
 
 ## About My Project
 
