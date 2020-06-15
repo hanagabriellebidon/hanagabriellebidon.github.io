@@ -20,6 +20,8 @@ Kyle Rector is an Assistant Professor of Computer Science and a member of the Pu
 
 She has broader interests in HCI. For instance, she has collaborated on other projects including email and attachment management in enterprise, an American Sign Language Dictionary, and inclusive play for neurodiverse children.
 
+Feel free to check out her website: http://homepage.cs.uiowa.edu/~krector/research.php
+
 ## About My Project
 
 Project description goes here.
