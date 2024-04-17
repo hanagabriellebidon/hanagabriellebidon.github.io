@@ -14,7 +14,6 @@ I graduated from Cornell University in 2021 with a B.S. in Information Science, 
 
 Feel free to contact me at hanagabrielleb91@gmail.com if you would like to chat about data science, human computer interaction, accessibility, mental health, and anything else. 
 
-
 ## About My Project
 
 I will be developing a sensor mat system with the research team that detects whether people with visual impairments are in sync with an aerobics workout (e.g., step aerobics). If they are not in sync, we will deliver personalized verbal feedback.
